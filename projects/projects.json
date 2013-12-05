@@ -2,6 +2,21 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Taverdon.com",
+      "thumb": "taverdon/thumb.png",
+      "desc": "Taverdon.com is a small One-Page App used to introduce myself to the world",
+      "url": "http://www.taverdon.com",
+      "info": "http://www.taverdon.com",
+      "submitter": "Viandoks",
+      "submissionDate": "2013-12-05",
+      "tags": [
+          "Production",
+          "Experiences",
+          "ngAnimate", "Map API V3", "Directives",
+          "jQuery", "Bootstrap"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
